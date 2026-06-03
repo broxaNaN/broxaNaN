@@ -1,5 +1,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGViZjd0Y3J6ajhteHlkaDB0Z2V5a2k1eHl4MDJ0NHd5ZnUxaWxodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="100%" />
 
+> Amazon.ca, what's the website for that?
+
 # Hello World! .✦ ݁˖
 
 I'm a university student learning how to build cool things. Besides computer science, my hobbies include watching movies, listening to music, reading, and playing video games.
